@@ -1,11 +1,11 @@
 
-1. Nombre del proyecto
+# 1. Nombre del proyecto
 Sistema Web de Gestión y Análisis Estadístico de Inventario (o InventoryStats-PHP).
 
-2. Objetivo del proyecto
+# 2. Objetivo del proyecto
 Desarrollar una aplicación web interactiva utilizando PHP y HTML para capturar de manera masiva los datos de múltiples productos, procesar dicha información a través de arreglos paralelos unidimensionales, y devolver un reporte detallado con cálculos estadísticos de los precios.
 
-3. Problema que resuelve
+# 3. Problema que resuelve
 El control manual de inventarios pequeños en una tienda suele ser ineficiente y propenso a errores de cálculo. Este proyecto resuelve este problema mediante:
 
 Automatización del procesamiento: Elimina la necesidad de calcular manualmente totales o promedios matemáticos.
@@ -14,14 +14,14 @@ Búsqueda inteligente automatizada: Identifica de manera exacta e inmediata los 
 
 Persistencia temporal en transferencia: Estructura de forma ordenada las entradas asíncronas de un formulario en arreglos paralelos correlacionados por su índice.
 
-4. Tecnologías utilizadas
+# 4. Tecnologías utilizadas
 Lenguaje de programación (Servidor): PHP 8.x
 
 Lenguaje de marcado (Interfaz): HTML5 y hojas de estilo CSS integradas
 
 Entorno de ejecución local sugerido: XAMPP, WampServer o Laragon (con Servidor Apache)
 
-5. Conceptos aplicados (según temario)
+# 5. Conceptos aplicados (según temario)
 Envío y captura de datos por métodos HTTP: Uso del método POST y variables superglobales ($_SERVER["REQUEST_METHOD"], $_POST) para transferir datos de forma segura entre el cliente y el servidor.
 
 Estructuras de control repetitivas (Bucles): Empleo de ciclos for tanto para renderizar dinámicamente campos del formulario en la vista, como para iterar y listar los elementos guardados.
@@ -32,7 +32,7 @@ Funciones nativas de ordenamiento y búsqueda en PHP: Implementación de algorit
 
 Sanitización y formateo de datos: Uso de htmlspecialchars() para mitigar vulnerabilidades Cross-Site Scripting (XSS) y number_format() para dar salida visual con formato de moneda.
 
-6. Instrucciones de ejecución
+# 6. Instrucciones de ejecución
 Descargar o copiar la carpeta del proyecto.
 
 Colocar la carpeta dentro de la carpeta htdocs de XAMPP.
@@ -52,7 +52,7 @@ Presionar el botón para calcular ("Procesar Inventario").
 
 Visualizar los resultados generados por el sistema.
 
-7. Reflexión personal
+# 7. Reflexión personal
 ¿Qué aprendí?
 Aprendí a correlacionar datos usando arreglos paralelos unidimensionales, entendiendo cómo un índice numérico compartido puede vincular información de distinta naturaleza (un texto con un número flotante). También reforcé la lógica de transferencia de arreglos nativos desde formularios HTML agregando corchetes ([]) al atributo name.
 
