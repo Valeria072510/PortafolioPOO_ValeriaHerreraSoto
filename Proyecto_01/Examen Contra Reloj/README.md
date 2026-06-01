@@ -13,7 +13,7 @@ TECNOLOGIAS UTILIZADAS:PHP, Programación Orientada a Objetos (POO), tipado estr
 
 INSTRUCCIONES DE EJECUCION: 
 -La carpeta debe de estar en htdocs
--Abrir xampp y activar apacge
+-Abrir xampp y activar apache
 -En tu buscador ingresa 127.0.0.1
 -Ingresa a la carpeta que creaste y automaticamente te dará la ejecucion. 
 
