@@ -48,7 +48,7 @@ Capturar los datos solicitados.
 Presionar el botón para calcular.
 Visualizar los resultados generados por el sistema.
 
-8. Reflexión personal
+7. Reflexión personal
 ¿Qué aprendí?
 
 Aprendí a aplicar los principios de la Programación Orientada a Objetos en PHP mediante la creación de clases, objetos y métodos. También comprendí cómo utilizar formularios web para capturar información y cómo implementar algoritmos matemáticos para resolver problemas reales mediante programación.
