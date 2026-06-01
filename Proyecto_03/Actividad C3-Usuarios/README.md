@@ -1,10 +1,10 @@
-1. Nombre del proyecto
+# 1. Nombre del proyecto
 Sistema de Gestión y Control de Acceso de Usuarios en Consola (o UserAuth-POO Python).
 
-2. Objetivo del proyecto
+# 2. Objetivo del proyecto
 Desarrollar una aplicación de consola en Python que permita registrar, categorizar y gestionar diferentes tipos de usuarios (Administradores, Clientes e Invitados), demostrando de manera práctica la implementación de arquitecturas limpias mediante la Programación Orientada a Objetos (POO) y la validación de datos mediante expresiones regulares.
 
-3. Problema que resuelve
+# 3. Problema que resuelve
 En el desarrollo de software, gestionar la lógica de diferentes perfiles de usuario de forma centralizada suele generar código repetitivo y difícil de mantener. Este proyecto resuelve ese problema mediante:
 
 Centralización y modularidad: Evita la duplicación de código compartiendo atributos base como el nombre y el email.
@@ -13,14 +13,14 @@ Integridad de datos: Resuelve el problema de registros con correos electrónicos
 
 Control de permisos: Define comportamientos específicos de acceso para cada rol sin necesidad de llenar el código de condicionales anidados (if/else masivos).
 
-4. Tecnologías utilizadas
+# 4. Tecnologías utilizadas
 Lenguaje de programación: Python 3.x
 
 Módulos estándar: re (Regular Expressions) para la validación del correo electrónico.
 
 Paradigma principal: Programación Orientada a Objetos (POO).
 
-5. Conceptos aplicados (según temario)
+# 5. Conceptos aplicados (según temario)
 Clases y Objetos: Creación del molde base (Usuario) y la instanciación de objetos específicos (Admin, Cliente, Invitado).
 
 Encapsulamiento y Validación: Uso del método validar_email dentro del constructor para proteger la integridad del estado del objeto.
@@ -32,7 +32,7 @@ Polimorfismo: El método acceso_sistema() se comporta de manera diferente en cad
 Modularidad: Separación del código en múltiples archivos (.py) para mejorar la organización y la mantenibilidad del sistema.
 
 
-6. Instrucciones de ejecución
+# 6. Instrucciones de ejecución
 Descargar o copiar la carpeta del proyecto.
 
 Colocar la carpeta en una ubicación accesible de tu equipo (por ejemplo, el Escritorio o Documentos).
@@ -51,7 +51,7 @@ Capturar los datos solicitados (Nombre, Email, etc.).
 
 Visualizar los resultados y el comportamiento polimórfico generados por el sistema.
 
-7. Reflexión personal
+# 7. Reflexión personal
 ¿Qué aprendí?
 Aprendí a estructurar un proyecto real dividiéndolo en módulos independientes en Python. Logré asimilar cómo el polimorfismo permite que un mismo método (acceso_sistema) devuelva resultados completamente distintos dependiendo del objeto que lo invoque, lo cual limpia mucho el código en el archivo principal. También reforcé el uso de expresiones regulares para sanitizar entradas de datos.
 
