@@ -1,16 +1,16 @@
-1. Nombre del proyecto
+# 1. Nombre del proyecto
 
 Calculadora de Consumo Energético mediante Integración Numérica
 
-2. Objetivo del proyecto
+# 2. Objetivo del proyecto
 
 Desarrollar una aplicación web en PHP que permita calcular el consumo total de energía de un sistema utilizando métodos de integración numérica, permitiendo analizar diferentes perfiles de consumo energético en un intervalo de tiempo determinado.
 
-3. Problema que resuelve
+# 3. Problema que resuelve
 
 El proyecto resuelve la necesidad de estimar el consumo energético de un sistema cuando la potencia varía con el tiempo. Mediante la integración numérica, se obtiene una aproximación de la energía total consumida para distintos escenarios de operación, facilitando el análisis y la toma de decisiones relacionadas con la eficiencia energética.
 
-4. Tecnologías utilizadas
+# 4. Tecnologías utilizadas
 PHP
 HTML5
 CSS3
@@ -19,7 +19,7 @@ Método de Integración Numérica (Regla del Trapecio)
 XAMPP/Apache
 Navegador web
 
-6. Conceptos aplicados (según temario)
+# 6. Conceptos aplicados (según temario)
 Clases y Objetos
 Encapsulamiento
 Constructores
@@ -34,7 +34,7 @@ Programación Orientada a Objetos (POO)
 Algoritmos matemáticos
 Integración numérica
 
-7. Instrucciones de ejecución
+# 7. Instrucciones de ejecución
 Descargar o copiar la carpeta del proyecto.
 Colocar la carpeta dentro de la carpeta htdocs de XAMPP.
 Abrir el Panel de Control de XAMPP.
@@ -48,7 +48,7 @@ Capturar los datos solicitados.
 Presionar el botón para calcular.
 Visualizar los resultados generados por el sistema.
 
-7. Reflexión personal
+# 7. Reflexión personal
 ¿Qué aprendí?
 
 Aprendí a aplicar los principios de la Programación Orientada a Objetos en PHP mediante la creación de clases, objetos y métodos. También comprendí cómo utilizar formularios web para capturar información y cómo implementar algoritmos matemáticos para resolver problemas reales mediante programación.
