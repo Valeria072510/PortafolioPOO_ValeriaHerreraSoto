@@ -1,8 +1,8 @@
 # PortafolioPOO_ValeriaHerreraSoto
 
-*Valeria Herrera Soto*
-*Programacion Orientada a Objetos*
-*ISC. Jesus Salas Marin* 
+# *Valeria Herrera Soto*
+# *Programacion Orientada a Objetos*
+# *ISC. Jesus Salas Marin* 
 
 # 1. ¿Qué contiene el portafolio?
 Este portafolio de evidencias recopila los proyectos y módulos prácticos desarrollados a lo largo del periodo académico en la materia de Programación Orientada a Objetos. Contiene soluciones de software modulares que avanzan desde la lógica de escritorio hasta la arquitectura web, organizadas de la siguiente manera:
